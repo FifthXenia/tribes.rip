@@ -19,6 +19,8 @@
    - Ability to send/receive payment (stripe, monero, etc). Can have a "queue" that is paid.
      - EX: "Resume Review": $5.
    - Hook into calendar, for scheduling. (EX: Call with me about X, can have blocked out times, using calendar, and give that to them to schedule).
+   - Think of any other "profile" page feature, and it can likely be added (piletexod.us, gym feed, exercise feed, study feed, etc. Anything that can be tracked and displayed, can be shown). This can basically be a customizable/programmable super app: https://piped.kavin.rocks/watch?v=82PkhfvwxFc&list=PLZfuUWMTtMcC1DZF6HxJhqsGrBXu8Jzi7&index=31
+      - Anything can be iframed, and thus apps can be embeded in your profile page.
 - BlitzKrieg (main target is scrum teams) (Bewegungskrieg - https://old.reddit.com/r/MilitaryHistory/comments/qug054/is_the_blitzkrieg_an_actual_german_military/)
    - For an organization, use CRDT, list stories.
    - Skip Scrum standup, publish update in CRDT form for the day, and can list who you need to meet with to address blockers (can list what you want to talk about).
