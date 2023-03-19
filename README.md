@@ -1,1 +1,40 @@
 # tribes.rip
+
+## Purpose
+- Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin)
+- Can add people, tag them, and organize them in a graph (by group).
+   - EX: School, Work(Edmunds.com), etc.
+   
+### Main Differentiating Feature:
+- People have to communicate to you through a "queue", and you can have various queues/message formats availables.
+   - EX: Send me your resume queue, that hold 5 messages, requires a 1 page pdf uploaded.
+- Because you can set limitations/define how people interact with you, you can freely "add anybody" to your graph, and just restrict them to "only message me about projects", or something. Or allow them 1/message per year, where they can send you anything. So you can add people, put them in boxes/categories, and restrict access if you don't want to an open DM with them (which is why people don't just free-willingly add people, so they don't get spammed). But because with the queues/restrictions you can control comms, this allows the people you meet, to be kept in your graph, and you have that constant pulse/communication outlet with them, available if needed.   
+  
+## Features
+- Profile page.
+   - Queues (what avenues are available, for someone to contact you).
+   - Links (crypto, email, etc). What is available, is dependent on what access you've given that person.
+   - Anonymous messages supported (you define what they see, what they can send you).
+   - Customizable profile page/profile tabs (can have a blog tab (iframe your blog), YouTube tab (iframe your YouTube channel).
+   - Ability to send/receive payment (stripe, monero, etc). Can have a "queue" that is paid.
+     - EX: "Resume Review": $5.
+   - Hook into calendar, for scheduling. (EX: Call with me about X, can have blocked out times, using calendar, and give that to them to schedule).
+- BlitzKrieg (main target is scrum teams) (Bewegungskrieg - https://old.reddit.com/r/MilitaryHistory/comments/qug054/is_the_blitzkrieg_an_actual_german_military/)
+   - For an organization, use CRDT, list stories.
+   - Skip Scrum standup, publish update in CRDT form for the day, and can list who you need to meet with to address blockers (can list what you want to talk about).
+   - Have a scheduling algorithm, that say for a  1 hour time block, using some scheduling rules, schedules these for that block, so that everything in the scrum is addressed. Maybe link to a Video sharing link, or do p2p video.
+   - Can publish daily progress, meeting links, to a git repo.
+   
+## Other things to consider
+- Client/Server protocol. Run Server self-hosted or on VPS,etc. It stores your queue. Then you're client (Web/React, or emacs, cli), can download, process
+- Self Host ability.
+- Maybe do something with carp, so a realtime lisp can be used: https://github.com/carp-lang/Carp
+   - Maybe with REPL, can live-update things.
+- Add the "queue" aspect, to external ingestions.
+  - YouTube, RSS, etc.
+  - Can limit things. For example: Subscribe to this youtube channel, but only take 1 video/week, and stick it in my queue.
+- DSL, to make configuring rules simpler.
+
+## How:
+- Use whatever tech stack Obsidian is using: https://obsidian.md/
+  - I believe this is React, and ReactNative for mobile.
