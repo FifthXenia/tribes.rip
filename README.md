@@ -31,6 +31,17 @@
 - Self Host ability.
 - Maybe do something with carp, so a realtime lisp can be used: https://github.com/carp-lang/Carp
    - Maybe with REPL, can live-update things.
+- Maybe something with Rust/Go for a server.
+- Maybe some deployment strategy, where you can roll out an A/B, so you can verify that your updated server logic works. (A basic way to control deployments).
+- Save queue state to a file/DB, so that if restart, messages are not lost.
+- Ability to send data back to sender of message.
+   - "Read" notification.
+   - "Queue" position value.
+   - "Queue" velocity (how fast the person is processing your queue. For example, if it's at 0/20 for a week, you can ask if they can take a look at the queue, and process your message).
+   - Maybe they only "looked at the title", and discarded the message. So you can know this (could be optional).
+   - Optional statistics: Spent 5 minutes on your message.
+- Ability to read a specific message in a queue (doesn't need to be FIFO). Can be a fixed sized array.
+   - So you can just view a given message from someone, if needed.
 - Add the "queue" aspect, to external ingestions.
   - YouTube, RSS, etc.
   - Can limit things. For example: Subscribe to this youtube channel, but only take 1 video/week, and stick it in my queue.
