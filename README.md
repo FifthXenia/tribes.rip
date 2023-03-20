@@ -29,6 +29,7 @@
       - This fixes the 30-60 minute synchronous scrums. Instead, with Blitzkrieg, you have asynchronous scheduling of synchronous meetings, only with people who need to be there. Meetings are recorded, and CRDT data for that daily entry is recorded (for example, summaries of discussion). With the current way SCRUM works, you have to listen to stories you don't work on, and here about things you have nothing to do with, which saps productivity. An a ideal world, with blitzkrieg, you only meet with people you need to, about things you're working on, for a given purpose. This is the most efficient way. You just need a web app with CRDT to input what is needed to be addressed, and with who, and then the app will do scheduling. If scheduling needs to go outside the SCRUM synchronous time block, because tribes.rip has access to your calendar, you can schedule later in they day if possible, or even earlier to the day. (Scheduling does not need to be limited to a 1 hour SCRUM time block, but it can be a default, if earlier/later is not wanted, or not needed).
     - Market Research:
          - https://reclaim.ai/
+         - https://timeto.morgen.so/
    
 ## Other things to consider
 - Client/Server protocol. Run Server self-hosted or on VPS,etc. It stores your queue. Then you're client (Web/React, or emacs, cli), can download, process
