@@ -69,3 +69,9 @@
      - ~The book Zero To Production in Rust actually has a great example of testing the database for each test, as well as testing the code itself. Basically what you do is spin up a new database, have the test code interact with that database, and once the test ends, the database is dropped as well.~
 *** Resources:
 - https://blog.logrocket.com/real-time-chat-app-rust-react/
+- https://libreddit.eu.org/r/rust/comments/dyfmqu/message_queue_in_rust_anywhere/
+- https://libreddit.eu.org/r/rust/comments/yd66z3/do_you_really_need_a_message_queue_handling/
+- https://libreddit.eu.org/r/rust/comments/108qghf/how_to_call_from_rust_into_js_java_c_ruby_and/
+- https://libreddit.eu.org/r/rust/comments/yx3k5s/are_there_any_crates_for_local_pubsub/
+- https://libreddit.eu.org/r/rust/comments/j4fma4/how_to_handle_bringing_a_snapshot_of_state_up_to/
+- https://libreddit.eu.org/r/rust/comments/119bztc/how_to_implement_message_passing_in_ffi/
