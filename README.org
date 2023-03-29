@@ -66,3 +66,4 @@
   - https://libreddit.eu.org/r/rust/comments/qvluhi/still_cant_decide_between_actixweb_and_axum/
      - ~We've migrated from warp to Axum due to horrible compile times.~
   - https://libreddit.eu.org/r/rust/comments/11wk4o4/endtoend_tests_of_axum_web_server/
+     - ~The book Zero To Production in Rust actually has a great example of testing the database for each test, as well as testing the code itself. Basically what you do is spin up a new database, have the test code interact with that database, and once the test ends, the database is dropped as well.~
