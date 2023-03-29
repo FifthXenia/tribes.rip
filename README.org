@@ -63,3 +63,5 @@
 - Use Axum (more popular, will have to skip create-rust-app)
   - https://github.com/tokio-rs/axum/issues/50
   - https://docs.rs/aide/latest/aide/
+  - https://libreddit.eu.org/r/rust/comments/qvluhi/still_cant_decide_between_actixweb_and_axum/
+     - ~We've migrated from warp to Axum due to horrible compile times.~
