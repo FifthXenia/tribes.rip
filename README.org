@@ -60,3 +60,6 @@
 - https://libreddit.eu.org/r/rust/comments/vezbjf/createrustapp_added_ssr_templates_and_esbuild/
 - https://libreddit.eu.org/r/rust/comments/s0g9x9/thoughts_on_poem_axum/
 - https://github.com/Wulf/create-rust-app
+- Use Axum (more popular, will have to skip create-rust-app)
+  - https://github.com/tokio-rs/axum/issues/50
+  - https://docs.rs/aide/latest/aide/
