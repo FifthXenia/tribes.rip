@@ -2,7 +2,7 @@
 
 ** Purpose
 - Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin), and frequent connections, and distant/infrequent connections.
-- Can add people, tag them, and organize them in a graph (by group).
+- Can add people, tag them, and organize them in a graph (by group), and define communication via specified "queues".
    - EX: School, Work(Edmunds.com), etc.
 ** Potential Slogan Ideas:
 - ~Connect with people, on your terms.~
