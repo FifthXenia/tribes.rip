@@ -5,9 +5,9 @@
 - Can add people, tag them, and organize them in a graph (by group), and define communication via specified "queues".
    - EX: School, Work(Edmunds.com), etc.
 ** Potential Slogan Ideas:
-- ~Connect with people, on your terms.~
-- ~Stay connected, on your terms.~
-   
+- Best: ~Stay connected, on your terms.~
+   - Eh: ~Connect with people, on your terms.~
+
 *** Main Differentiating Feature:
 - People have to communicate to you through a "queue", and you can have various queues/message formats available.
    - EX: Send me your resume queue, that hold 5 messages, requires a 1 page pdf uploaded.
