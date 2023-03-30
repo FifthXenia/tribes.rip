@@ -7,7 +7,12 @@
 ** Potential Slogan Ideas:
 - Best: ~Stay connected, on your terms.~
    - Eh: ~Connect with people, on your terms.~
-
+*** Other Ideas:
+**** Design Philosophy:
+- Design things in a way, where it re-inforces the user as the mental point of origin.
+- Example: If deleting somebody from your graph, don't say "delete". Say something like "Cast out X to the wolves", and display some cool animation, where they get eaten alive or something.
+   - Do things, that empowers the users choice, and makes them feel empowered, and ~responsible~. You better make damn sure you're kicking somebody out of your graph, because that motherfucker is just about to be devoured by some wolves. That is a life-or-death decision. Keep things high-stakes, so that responsibility of the user, remains high. And so that the user retains their self-respect, and ~sovereignty~
+   
 *** Main Differentiating Feature:
 - People have to communicate to you through a "queue", and you can have various queues/message formats available.
    - EX: Send me your resume queue, that hold 5 messages, requires a 1 page pdf uploaded.
