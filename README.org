@@ -4,6 +4,9 @@
 - Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin)
 - Can add people, tag them, and organize them in a graph (by group).
    - EX: School, Work(Edmunds.com), etc.
+** Potential Slogan Ideas:
+- ~"Connect with people, on your terms."~
+- ~"Stay connected, on your terms."~
    
 *** Main Differentiating Feature:
 - People have to communicate to you through a "queue", and you can have various queues/message formats availables.
