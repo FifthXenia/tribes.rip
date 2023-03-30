@@ -9,7 +9,7 @@
 - ~Stay connected, on your terms.~
    
 *** Main Differentiating Feature:
-- People have to communicate to you through a "queue", and you can have various queues/message formats availables.
+- People have to communicate to you through a "queue", and you can have various queues/message formats available.
    - EX: Send me your resume queue, that hold 5 messages, requires a 1 page pdf uploaded.
 - Because you can set limitations/define how people interact with you, you can freely "add anybody" to your graph, and just restrict them to "only message me about projects", or something. Or allow them 1/message per year, where they can send you anything. So you can add people, put them in boxes/categories, and restrict access if you don't want to an open DM with them (which is why people don't just free-willingly add people, so they don't get spammed). But because with the queues/restrictions you can control comms, this allows the people you meet, to be kept in your graph, and you have that constant pulse/communication outlet with them, available if needed.   
   
