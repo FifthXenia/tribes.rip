@@ -33,6 +33,8 @@
     - Market Research:
          - https://reclaim.ai/
          - https://timeto.morgen.so/
+   - *Vision:* ~I want SCRUM ripped out of orgs. Replaced with async comms, and more iterative development.~
+   
    
 ** Other things to consider
 - Client/Server protocol. Run Server self-hosted or on VPS,etc. It stores your queue. Then you're client (Web/React, or emacs, cli), can download, process
