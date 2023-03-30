@@ -1,7 +1,7 @@
 * tribes.rip
 
 ** Purpose
-- Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin)
+- Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin), and frequest connections, and distant/infrequent connections.
 - Can add people, tag them, and organize them in a graph (by group).
    - EX: School, Work(Edmunds.com), etc.
 ** Potential Slogan Ideas:
