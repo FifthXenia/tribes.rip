@@ -75,3 +75,7 @@
 - https://libreddit.eu.org/r/rust/comments/yx3k5s/are_there_any_crates_for_local_pubsub/
 - https://libreddit.eu.org/r/rust/comments/j4fma4/how_to_handle_bringing_a_snapshot_of_state_up_to/
 - https://libreddit.eu.org/r/rust/comments/119bztc/how_to_implement_message_passing_in_ffi/
+- Can maybe use rust signal libraries, for encrypted messaging (dms, maybe private group threads):
+   - https://github.com/nanu-c/axolotl/issues/943
+      - https://github.com/signalapp/libsignal
+      - https://github.com/whisperfish/presage
