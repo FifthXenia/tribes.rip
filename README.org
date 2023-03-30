@@ -33,7 +33,7 @@
     - Market Research:
          - https://reclaim.ai/
          - https://timeto.morgen.so/
-   - *Vision:* ~I want SCRUM ripped out of orgs. Replaced with async comms, and more iterative development.~
+   - *Vision:* ~I want SCRUM ripped out of orgs. Replaced with async comms, and more iterative, fluid development.~
    
    
 ** Other things to consider
