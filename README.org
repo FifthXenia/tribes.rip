@@ -1,5 +1,16 @@
 * tribes.rip
 
+** Status:
+*** 04-01-23:
+- I don't think I care enough about this anymore currently, enough to take any action on this.
+- I don't really want to touch GUIs (react).
+- I don't think friends are really that important. I think just sticking people in LinkedIn is good enough. Referrals and comms are negligible, to maintain upkeep on "friends" and "network". It's better to just be someone like Elon Musk and just do some shit, maybe create a business out of it, and have your social interaction through work. Or do something like ThePrimeagean / Tech Lead, where your social is over YouTube - again, your business / work. I mean Tesla was just working on inventions, he didn't really need to maintain this diverse connection set, and even he got in contact with Edison - because he was "Too Good to Ignore - Cal Newport".
+- I don't want to maintain this.
+- I would like to do something more with Carp (lisp) on the backend, more than something like Rust.
+  - However, Carp is in it's infancy, and I have no idea the debugging infrastructure (I doubt there's DAP), there's likely no LSP (just syntax highlighting via ~clojure-mode~), and I don't think many people would use it.
+- It's likely not going to make me any money.
+- I just don't give enuogh fucks, to do anything on this currently.
+
 ** Purpose
 - Create a communication platform, that handles personal (Signal, Facebook), and Work (Linkedin), and frequent connections, and distant/infrequent connections.
 - Can add people, tag them, and organize them in a graph (by group), and define communication via specified "queues".
