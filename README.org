@@ -75,6 +75,8 @@
 - Ability to only get notified on certain queues.
   - People can see these. For example, I can only get notified for resumes/job oppurtunities/business ideas.
     - Any other queues, I won't get notified on. And there will be an icon to indicate this.
+- PlainText configuration of graph, queues.
+- Rust Queue is a CLI, that can be used.
 
 * How:
 - Use whatever tech stack Obsidian is using: https://obsidian.md/
