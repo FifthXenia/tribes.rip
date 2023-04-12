@@ -88,6 +88,10 @@
 - Rust Queue is a CLI, that can be used.
 - A ~Kill Count~ feature for queues.
   - Record how many times a message was rejected, because it didn't satisfy the requirmentss to participate it that queue.
+- Add an ability, for ~devices~ to appear as entities (can sent/receive messages, appear in your graph)
+  - ~carp~ complies to c for microcontrollers.
+  - Provides an additional use case, such that it can be used as a communication platform.
+  - Can used for something like home-assistant.
 
 * How:
 - Use whatever tech stack Obsidian is using: https://obsidian.md/
