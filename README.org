@@ -4,7 +4,7 @@
 *** 04-12-23:
 - Considering writing the Blitzkrieg feature as React CRDT with storage via delayed commits to git.
 - Considering writing the ~tribes.rip~ core features in ~carp~, as I find this more intriguing than Rust. And I like emacs, and would like a REPL for interacting with a communication platform, and designed in a framework that will be highly customizable and configurable, and something that can be at the root of all interactions. A realtime lisp, seems like the best, long term fit for such a use case.
-  - (What ~Meta~ wanted to be, if they knew lisp).
+  - (What ~Meta~ wanted to be, if only they knew lisp, and gave up a few dollars).
 *** 03-01-23:
 - I don't think I care enough about this anymore currently, enough to take any action on this.
 - I don't really want to touch GUIs (react).
