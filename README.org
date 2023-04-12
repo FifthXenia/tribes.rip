@@ -1,7 +1,10 @@
 * tribes.rip
 
 ** Status:
-*** 04-01-23:
+*** 04-12-23:
+- Considering writing the Blitzkrieg feature as React CRDT with storage via delayed commits to git.
+- Considering writing the `tribes.rip` core features in `carp`, as I find this more intriguing than Rust. And I like emacs, and would like a REPL for interacting with a communication platform, and designed in a framework that will be highly customizable and configurable, and something that can be at the root of all interactions. A realtime lisp, seems like the best, long term fit for such a use case.
+*** 03-01-23:
 - I don't think I care enough about this anymore currently, enough to take any action on this.
 - I don't really want to touch GUIs (react).
 - I don't think friends are really that important. I think just sticking people in LinkedIn is good enough. Referrals and comms are negligible, to maintain upkeep on "friends" and "network". It's better to just be someone like Elon Musk and just do some shit, maybe create a business out of it, and have your social interaction through work. Or do something like ThePrimeagean / Tech Lead, where your social is over YouTube - again, your business / work. I mean Tesla was just working on inventions, he didn't really need to maintain this diverse connection set, and even he got in contact with Edison - because he was "Too Good to Ignore - Cal Newport".
