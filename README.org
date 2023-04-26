@@ -93,6 +93,12 @@
   - ~carp~ complies to c for microcontrollers.
   - Provides an additional use case, such that it can be used as a communication platform (more general purpose, outside of just humans as actors).
   - Can be used for something like home-assistant.
+- Have this handle all external connections/media - A "personal super app" for organizing external connections.
+  - Quote app (save quotes, and view - helps with inspiration, avoding drain circling).
+  - Music app (save snippets of favorite songs).
+    - Modify speed, pitch, etc.
+    - Share with others.
+    - Host list on profile (like a public spotify profile).
 
 * How:
 - Use whatever tech stack Obsidian is using: https://obsidian.md/
