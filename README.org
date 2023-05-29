@@ -99,7 +99,13 @@
     - Modify speed, pitch, etc.
     - Share with others.
     - Host list on profile (like a public spotify profile).
-
+- *Ability to interact with other messaging platforms*
+  - EX: Have a Signal Messenger account, have some sort of chatGPT/AI thing, that responds for you.
+    - So someone messages you, the ai responds that your queue is full.
+      - And so then the message isn't forwarded to you.
+    - Or if message can be sent, ask them your boundary questions.
+      - Then the response you get, includes the message, and their responses to each of the boundary questions.
+  - There could be one single autoresponder, and then shims between specific messenger platforms, so the autoresponder can respond for you, and guide the messages. So the autoresponder just looks at message content, and how to respond, and shims extract/translate the messenge content from the messengers (text, attachments, etc), to a common format the autoresponder can handle.
 * How:
 - Use whatever tech stack Obsidian is using: https://obsidian.md/
   - I believe this is React, and ReactNative for mobile.
