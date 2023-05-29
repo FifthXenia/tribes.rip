@@ -1,5 +1,8 @@
 * tribes.rip
 ** Status:
+*** 05-29-23
+- Still blitzkrieg as a React CRDT.
+- But ~tribes.rip~ as a Rust backend server (maybe use axum/warp for requests), and a optional React frontend. Ignore carp for this.
 *** 04-12-23:
 - Considering writing the Blitzkrieg feature as React CRDT with storage via delayed commits to git.
 - Considering writing the ~tribes.rip~ core features in ~carp~, as I find this more intriguing than Rust. And I like emacs, and would like a REPL for interacting with a communication platform, and designed in a framework that will be highly customizable and configurable, and something that can be at the root of all interactions. A realtime lisp, seems like the best, long term fit for such a use case.
