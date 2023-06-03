@@ -25,12 +25,14 @@
    - EX: School, Work(Edmunds.com), etc.
 ** Potential Slogan Ideas:
 - Best: ~Stay connected, on your terms.~
-   - Eh: ~Connect with people, on your terms.~
-   - Eh: ~Keep solicitors soliciting.~
-   - Eh: ~Communication. But with boundaries~.
-   - Eh: ~Boundaries. Like Jesus had.~
-   - Eh: ~Boundaries. Like God intended.~
-
+  - Eh: ~Connect with people, on your terms.~
+  - Eh: ~Keep solicitors soliciting.~
+  - Eh: ~Communication. But with boundaries~.
+  - Eh: ~Boundaries. Like Jesus had.~
+  - Eh: ~Boundaries. Like God intended.~
+- Alright: ~"Putting the respect back into communication"~
+    - Respect depends on authority, hence the ~.rip~. Baseline reality is wild, serious, and can eat you up. So respect it. Boundaries indicate respect.
+    
 *** Other Ideas:
 **** Design Philosophy:
 - Design things in a way, where it re-inforces the user as the mental point of origin.
